@@ -1,0 +1,1 @@
+# yescoin-bot-installation
